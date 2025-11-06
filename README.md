@@ -15,7 +15,8 @@ To study mode characteristics of reflex klystron and hence to determine mode num
 7.	Waveguide stands MTI/NVIS
 8.	VSWR meter MTI VS 501/NVIS
 9.	Cathode Ray Oscilloscope Scientech -801C
-    
+
+	
 **Experimental Setup:**
 
 <img width="840" height="274" alt="image" src="https://github.com/user-attachments/assets/eed0a769-b540-4330-b4a0-7fd63fa28ed4" />
@@ -76,12 +77,11 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
-    **Result:**
+ **Result:**
+ The mode characteristics of the Reflex Klystron were successfully studied. The Electronic Tuning Range (ETR) was found to be about 150 MHz, and the Electronic Tuning Sensitivity (ETS) was about 7.5 MHz/V. Thus, the klystron effectively demonstrated electronic tuning using velocity modulation.
    	
 			
 			
 			
 			
 			
-
-
